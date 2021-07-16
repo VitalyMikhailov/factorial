@@ -1,0 +1,15 @@
+{
+  "name": "factorial",
+  "version": "1.0.0",
+  "description": "\"test of qainterview.pythonanywhere.com page\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "Vitaly",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.7.0",
+    "prettier": "2.3.2"
+  }
+}
